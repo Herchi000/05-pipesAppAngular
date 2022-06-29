@@ -11,5 +11,6 @@ export class BasicosComponent {
   nombreUpper: string = 'EMANUEL'
   nombreCammel: string = 'eManuEL'
  
+  fecha: Date = new Date();
 
 }
